@@ -1,3 +1,5 @@
 personId:ID(Person),name,Grade
 P-1001,Oliver Dooley,Manager
 P-1002,Martin Gundersen,Manager
+P-1003,Stefano Nervi,Manager
+P-1004,Christopher Meile,Associate
