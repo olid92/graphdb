@@ -1,0 +1,3 @@
+:START_ID(Person),:END_ID(Topic),:TYPE,level:int
+P-1001,T-101,SME_IN,5
+P-1002,T-102,SME_IN,4

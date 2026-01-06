@@ -1,0 +1,3 @@
+:START_ID(Person),:END_ID(Technology),:TYPE,certified:boolean
+P-1001,TE-501,TECH_SPECIALIST_IN,true
+P-1002,TE-502,TECH_SPECIALIST_IN,false

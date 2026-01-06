@@ -1,0 +1,3 @@
+technologyId:ID(Technology),name,vendor
+TE-501,"Microsoft Fabric","Microsoft"
+TE-502,"Neo4j","Neo4j, Inc."
