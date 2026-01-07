@@ -1,3 +1,14 @@
 topicId:ID(Topic),name
-T-101,"Data Governance"
-T-102,"Data Quality"
+T-101,Data Governance
+T-102,Data Quality
+T-108,AI Governance
+T-111,Automation
+T-109,Cloud
+T-106,Data Architecture
+T-105,Data Engineering
+T-104,Data Management
+T-107,Data Strategy
+T-110,FinOps
+T-113,Generative AI
+T-103,Data Platforms
+T-112,Target Operating Model
