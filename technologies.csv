@@ -1,5 +1,6 @@
 technologyId:ID(Technology),name,vendor
 TE-501,Microsoft Fabric,Microsoft
-TE-502,CluedIn,
-TE-503,Purview,
-TE-504,Snowflake,
+TE-502,CluedIn,CluedIn
+TE-503,Purview,Microsoft
+TE-504,Snowflake,Snowflake
+
