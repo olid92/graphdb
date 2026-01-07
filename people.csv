@@ -2,4 +2,18 @@ personId:ID(Person),name,Grade
 P-1001,Oliver Dooley,Manager
 P-1002,Martin Gundersen,Manager
 P-1003,Stefano Nervi,Manager
-P-1004,Christopher Meile,Associate
+P-1004,Basak Schaufelberger,Manager
+P-1005,David Guerrero,Manager
+P-1006,Deidra Lazarus,Director
+P-1007,Emanuele Sotta,Manager
+P-1008,Falko Michielse,Manager
+P-1009,Federico Turella,Manager
+P-1010,Flavio Grisch,Senior Manager
+P-1011,Giridhar Joshi,Director
+P-1012,Ioannis Markopoulos,Manager
+P-1013,Julia Knysak-Mueller,Manager
+P-1014,Markus Iten,Senior Manager
+P-1015,Martin Flisek,Senior Manager
+P-1002,Martin Gundersen,Manager
+P-1016,Matteo Biondi,Director
+P-1017,Arash Besadi,Manager
