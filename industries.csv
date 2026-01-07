@@ -1,3 +1,8 @@
 industryId:ID(Industry),name
 I-10,Construction
 I-20,Manufacturing
+I-30,Shipping
+I-40,Energy
+I-50,Banking
+I-60,Media
+I-70,Insurance
