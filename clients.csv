@@ -1,10 +1,11 @@
 clientId:ID(Client),name,country
-C-2001,Sika,Switzerland
-C-2002,Geberit,Switzerland
-C-2003,ABB,Switzerland
-C-2004,Hitachi Energy,Switzerland
-C-2005,Julius Bär,Switzerland
-C-2006,MSC,Switzerland
-C-2004,RVK,Switzerland
-C-2008,SRG,Switzerland
-C-2009,UBS,Switzerland
+C-2001,Client A,Switzerland
+C-2002,Client B,Switzerland
+C-2003,Client C,Switzerland
+C-2004,Client D,Switzerland
+C-2005,Client E,Switzerland
+C-2006,Client F,Switzerland
+C-2004,Client G,Switzerland
+C-2008,Client H,Switzerland
+C-2009,Client I,Switzerland
+
