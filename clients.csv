@@ -1,10 +1,12 @@
-clientId:ID(Client),name,country
-C-2001,Client A,Switzerland
-C-2002,Client B,Switzerland
-C-2003,Client C,Switzerland
-C-2004,Client D,Switzerland
-C-2005,Client E,Switzerland
-C-2006,Client F,Switzerland
-C-2007,Client G,Switzerland
-C-2008,Client H,Switzerland
-C-2009,Client I,Switzerland
+clientId:ID(Client),name
+C-2001,Client A
+C-2002,Client B
+C-2003,Client C
+C-2004,Client D
+C-2005,Client E
+C-2006,Client F
+C-2007,Client G
+C-2008,Client H
+C-2009,Client I
+C-2010,Client J
+C-2999,None
