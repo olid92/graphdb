@@ -1,39 +1,46 @@
-personId:ID(Person),name,Grade
-P-1001,Oliver Dooley,Manager
-P-1002,Martin Gundersen,Manager
-P-1003,Stefano Nervi,Manager
-P-1004,Basak Schaufelberger,Manager
-P-1005,David Guerrero,Manager
-P-1006,Deidra Lazarus,Director
-P-1007,Emanuele Sotta,Manager
-P-1008,Falko Michielse,Manager
-P-1009,Federico Turella,Manager
-P-1010,Flavio Grisch,Senior Manager
-P-1011,Giridhar Joshi,Director
-P-1012,Ioannis Markopoulos,Manager
-P-1013,Julia Knysak-Mueller,Manager
-P-1014,Markus Iten,Senior Manager
-P-1015,Martin Flisek,Senior Manager
-P-1016,Matteo Biondi,Director
-P-1017,Arash Besadi,Manager
-P-1018,Aradhika Acharya,Senior Associate
-P-1019,Christopher Meile,Associate
-P-1020,Claudius Meyer,Partner
-P-1021,Daniela Maria Raischi,Associate
-P-1022,Eleni Karamasioti,Manager
-P-1023,Eva Mariotto,Senior Associate
-P-1024,Farah Ahdour,Senior Associate
-P-1025,Giordana Di Biagio,Senior Associate
-P-1026,Joscha Milinski,Partner
-P-1027,Luca Aebischer,Senior Associate
-P-1028,Maria Aikaterini Antonoglou,Senior Associate
-P-1029,Miray Kosucu,Associate
-P-1030,Nicole Poynarova,Senior Associate
-P-1031,Quentin Duret,Senior Associate
-P-1032,Sebastian Ahrens,Director
-P-1033,Sofia Barroso Dias,Senior Associate
-P-1034,Sofia Soares Apolinario,Associate
-P-1035,Sofia Takats,Associate
-P-1036,Sophia Malnight-Alvarez,Senior Associate
-P-1037,Tenyang Rabgang,Manager
-P-1038,Teresa Duarte Matos,Senior Associate
+personId:ID(Person),name,grade
+P-1001,Claudius Meyer,Partner
+P-1002,Joscha Milinski,Partner
+P-1003,Deidra Lazarus,Director
+P-1004,Giridhar Joshi,Director
+P-1005,Matteo Biondi,Director
+P-1006,Sebastian Ahrens,Director
+P-1007,Flavio Grisch,Senior Manager
+P-1008,Markus Iten,Senior Manager
+P-1009,Martin Flisek,Senior Manager
+P-1010,Oliver Assad,Senior Manager
+P-1011,Peer Kirschke,Senior Manager
+P-1012,Pramukhee Sirsi,Senior Manager
+P-1013,Patrick Jung,Senior Manager
+P-1014,Stephan Müller,Senior Manager
+P-1015,Vladislav Bunkin,Senior Manager
+P-1016,Arash Besadi,Manager
+P-1017,Basak Schaufelberger,Manager
+P-1018,David Guerrero,Manager
+P-1019,Eleni Karamasioti,Manager
+P-1020,Emanuele Sotta,Manager
+P-1021,Falko Michielse,Manager
+P-1022,Federico Turella,Manager
+P-1023,Ioannis Markopoulos,Manager
+P-1024,Julia Knysak-Mueller,Manager
+P-1025,Martin Gundersen,Manager
+P-1026,Oliver Dooley,Manager
+P-1027,Rodolphe Dehaspe,Manager
+P-1028,Stefano Nervi,Manager
+P-1029,Tenyang Rabgang,Manager
+P-1030,Robin Vargas,Manager
+P-1031,Theodora Papadaki,Manager
+P-1032,Aradhika Acharya,Senior Associate
+P-1033,Eva Mariotto,Senior Associate
+P-1034,Farah Ahdour,Senior Associate
+P-1035,Giordana Di Biagio,Senior Associate
+P-1036,Luca Aebischer,Senior Associate
+P-1037,Maria Aikaterini Antonoglou,Senior Associate
+P-1038,Nicole Poynarova,Senior Associate
+P-1039,Quentin Duret,Senior Associate
+P-1040,Sofia Barroso Dias,Senior Associate
+P-1041,Sophia Malnight-Alvarez,Senior Associate
+P-1042,Teresa Duarte Matos,Senior Associate
+P-1043,Christopher Meile,Associate
+P-1044,Miray Kosucu,Associate
+P-1045,Sofia Soares Apolinario,Associate
