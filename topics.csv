@@ -1,14 +1,118 @@
 topicId:ID(Topic),name
-T-101,Data Governance
-T-102,Data Quality
-T-108,AI Governance
-T-111,Automation
-T-109,Cloud
-T-106,Data Architecture
-T-105,Data Engineering
+T-101,Data Strategy
+T-102,Data Governance
+T-103,Data Quality
 T-104,Data Management
-T-107,Data Strategy
-T-110,FinOps
-T-113,Generative AI
-T-103,Data Platforms
-T-112,Target Operating Model
+T-105,Data Architecture
+T-106,Data Engineering
+T-107,Data Modeling
+T-108,Metadata Management
+T-109,Data Catalog
+T-110,Data Lineage
+T-111,Master Data Management (MDM)
+T-112,Reference Data Management
+T-113,Data Stewardship
+T-114,Data Privacy & Protection
+T-115,Data Security (InfoSec for Data)
+T-116,Data Access Management
+T-117,Data Retention & Archiving
+T-118,Data Lifecycle Management
+T-119,Data Classification
+T-120,Data Ownership & Accountability
+T-121,Data as a Product
+T-122,Data Marketplace
+T-123,Data Mesh
+T-124,Data Fabric
+T-125,Data Integration (ETL/ELT)
+T-126,Change Data Capture (CDC)
+T-127,Event & Streaming Data (Kafka)
+T-128,Batch Processing
+T-129,API & Data Services
+T-130,Data Warehousing
+T-131,Data Lake
+T-132,Lakehouse Platform
+T-133,Real-time Analytics Platform
+T-134,Business Intelligence
+T-135,Self-Service Analytics
+T-136,Data Visualization & Dashboards
+T-137,KPI & Metrics Framework
+T-138,Performance Analytics
+T-139,Advanced Analytics & Data Science
+T-140,Statistical Modeling
+T-141,Forecasting & Time Series
+T-142,Optimization & Simulation
+T-143,Experimentation & A/B Testing
+T-144,Customer & Marketing Analytics
+T-145,Finance & Risk Analytics
+T-146,Supply Chain & Operations Analytics
+T-147,Fraud & Anomaly Detection
+T-148,Geospatial Analytics
+T-149,IoT/Telemetry Analytics
+T-150,AI Strategy
+T-151,AI Governance
+T-152,Responsible AI
+T-153,Model Risk Management (MRM)
+T-154,MLOps & Model Lifecycle
+T-155,Feature Store
+T-156,Model Monitoring & Observability
+T-157,Model Management & Registry
+T-158,Model Evaluation & Benchmarking
+T-159,Bias
+T-160,AI Safety & Security
+T-161,AI Compliance
+T-162,Natural Language Processing (NLP)
+T-163,Computer Vision
+T-164,Recommendation Systems
+T-165,Personalization
+T-166,Generative AI
+T-167,Retrieval-Augmented Generation (RAG)
+T-168,Prompt Engineering
+T-169,LLMOps
+T-170,Synthetic Data
+T-171,Automation
+T-172,Robotic Process Automation (RPA)
+T-173,Intelligent Document Processing (IDP)
+T-174,Process Mining
+T-175,Workflow Orchestration
+T-176,Cloud
+T-177,Cloud Strategy
+T-178,Cloud Governance
+T-179,Cloud Architecture
+T-180,Cloud Foundations (Landing Zone)
+T-181,Cloud Migration & Modernization
+T-182,Multi-cloud & Hybrid Cloud
+T-183,Cloud Security & IAM
+T-184,Network & Connectivity
+T-185,Compute & Storage Services
+T-186,Kubernetes & Container Platforms
+T-187,Serverless & Event-driven
+T-188,PaaS Data Services (Azure/AWS/GCP)
+T-189,Observability & SRE
+T-190,Resilience & Disaster Recovery
+T-191,Cloud Cost Management
+T-192,FinOps
+T-193,Cloud Service Management (ITSM)
+T-194,Cloud-native Application Development
+T-195,Integration Platform
+T-196,Data Platform (Enterprise)
+T-197,Analytics Platform
+T-198,AI Platform
+T-199,Streaming Platform
+T-200,API Management Platform
+T-201,Target Operating Model (D&A)
+T-202,Org Design & Roles (CDO
+T-203,Governance Bodies (Council/ARB)
+T-204,Portfolio & Demand Management
+T-205,Product Management (Data/AI)
+T-206,Delivery & Agile Methods (Scrum/Kanban)
+T-207,Change Management & Adoption
+T-208,Training & Enablement
+T-209,Community of Practice / CoE
+T-210,Vendor & Partner Management
+T-211,Risk & Controls (SOX/ITGC)
+T-212,Data & Legal (GDPR
+T-213,Records Management
+T-214,Third‑Party Data Risk
+T-215,Ethics & Compliance for Data/AI
+T-216,Accessibility & Inclusive Design in Analytics
+T-217,TBD
