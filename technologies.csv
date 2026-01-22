@@ -9,4 +9,6 @@ TE-507,BigQuery,Google
 TE-508,Tableau,Salesforce
 TE-509,Qlik Sense,Qlik
 TE-510,Looker,Google
+TE-511,GCP,Google
 TE-599,None,None
+
